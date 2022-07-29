@@ -7,5 +7,6 @@ I tried to write same asynchronous code with the use of
 - `Promises` ES6 introduced promises using which we can make asynchronous calls and use `.then()` and  `.catch()` on the resolved or rejected the promise respectively. 
 - `async-await` ES8 introduced `async` functions using witch we can resolve any promise using the `await` keyword.
 
+You can run this code inside your browser console or using Node.js locally on your machine. 
 
 **This code is for my refrence only and might not make sense to you at all 🙏**
